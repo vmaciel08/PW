@@ -1,3 +1,10 @@
 h3{
     color:blue;
   }
+  body{
+    background-color: rgb(58, 53, 53);
+    background-image: url('/imagens_site/banner.jpg');
+  }
+  ul{
+    list-style-type: square;
+  }
